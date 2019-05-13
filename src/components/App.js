@@ -1,6 +1,6 @@
 import React from "react";
 
-//Entry Points
+//Entry Point
 const App = () => {
 	return <div>App</div>;
 };
